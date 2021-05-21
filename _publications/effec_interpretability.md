@@ -3,8 +3,9 @@ title: "Effective Attention Sheds Light On Interpretability"
 collection: publications
 permalink: /publication/effec_interpretability
 # venue: 'Journal 1'
+date: 2021-5
 paperurl: 'https://arxiv.org/abs/2105.08855'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Kaiser Sun and Ana Marasović. (2021). &quot;Effective Attention Sheds Light On Interpretability&quot; <i>Findings of ACL2021 (Pre-print)'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
