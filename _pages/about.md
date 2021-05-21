@@ -17,4 +17,4 @@ Thanks a lot to the support of my advisors and my donors, I was able to conduct 
 
 News
 ======
-I am applying to PhD programs this fall, please wish me best of luck :star:
+I am applying to PhD programs this fall, please wish me best of luck ⭐
