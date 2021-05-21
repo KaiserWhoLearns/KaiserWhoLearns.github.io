@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "🏳️‍🌈Kaiser Sun🏳️‍🌈"
   avatar           : "profile.png"
-  bio              : "Keep learning, keep thinking.💡"
+  bio              : "Keep learning, keep thinking."
   pronouns         : "they/them"
   emailaddr        : "huikas@cs.washington.edu"
   location         : "Seattle, WA"
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kaiser-sun-70858316b/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
