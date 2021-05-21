@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Kaiser Sun"
-  avatar           : "profile.jpg"
-  bio              : "Master's student at University of Washington. they/them"
+  avatar           : "profile.png"
+  bio              : "Master's student at University of Washington. \n they/them"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
