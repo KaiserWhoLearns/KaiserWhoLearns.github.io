@@ -3,7 +3,7 @@ title: "Effective Attention Sheds Light On Interpretability"
 collection: publications
 permalink: /publication/effec_interpretability
 # venue: 'Journal 1'
-date: 2021-5
+date: 2021-5-5
 paperurl: 'https://arxiv.org/abs/2105.08855'
 citation: 'Kaiser Sun and Ana Marasović. (2021). &quot;Effective Attention Sheds Light On Interpretability&quot; <i>Findings of ACL2021 (Pre-print)'
 ---
