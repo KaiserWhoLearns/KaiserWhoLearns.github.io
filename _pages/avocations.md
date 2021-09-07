@@ -50,3 +50,10 @@ In this page I placed some of my works that I found enjoyable in the process of 
 <img src="../images/paintings/Watercolor_Manga3.jpg" alt="wm3" width="300"/>
 
 ## Some of my photos
+
+<img src="../images/photos/cherryBlossom2019.jpg" alt="cb" width="450"/>
+<img src="../images/photos/DennyHall2019.jpg" alt="dh" width="450"/>
+<img src="../images/photos/flower2021.jpg" alt="flower" width="450"/>
+<img src="../images/photos/forest2021.jpg" alt="forest" width="450"/>
+<img src="../images/photos/fruit2020.jpg" alt="fruit" width="400"/>
+<img src="../images/photos/room2021.jpg" alt="room" width="400"/>
