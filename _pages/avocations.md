@@ -41,12 +41,12 @@ In this page I placed some of my works that I found enjoyable in the process of 
 
 <img src="../images/paintings/Dazai.jpg" alt="dazai" width="300"/>
 <img src="../images/paintings/Dazai2.jpg" alt="dazai1" width="400"/>
-<img src="../images/paintings/Shota.jpg" alt="shota" width="400"/>
+<img src="../images/paintings/Shota.jpg" alt="shota" width="300"/>
 
 **Some watercolor characters inspired by [黄皮桑](https://www.pixiv.net/en/users/3251213):**
 
-<img src="../images/paintings/Watercolor_Manga1.jpg" alt="wm1" width="400"/>
-<img src="../images/paintings/Watercolor_Manga2.jpg" alt="wm2" width="400"/>
-<img src="../images/paintings/Watercolor_Manga3.jpg" alt="wm3" width="400"/>
+<img src="../images/paintings/Watercolor_Manga1.jpg" alt="wm1" width="300"/>
+<img src="../images/paintings/Watercolor_Manga2.jpg" alt="wm2" width="300"/>
+<img src="../images/paintings/Watercolor_Manga3.jpg" alt="wm3" width="300"/>
 
 ## Some of my photos
