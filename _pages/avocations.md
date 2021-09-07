@@ -7,7 +7,7 @@ redirect_from:
 ---
 I live in Seattle with my patner and two cats, Bert and Roberta. In my free time, I like *photography* (with phone since I am a broken college student), *caligraphy*, *collage art*, and *drawing, painting with colored pencils, watercolor, gouache, as well as oil pastels*.
 
-In this page I placed some of my works that I found enjoyable in the process of drawing. 
+In this page I placed some of my works from 2019 that I found enjoyable in the process of drawing/creating. Some works ealier are missing because of me moving to Seattle. I will 
 ## Some of my paintings
 <!-- {% include images.html url="../images/paintings/avocado.jpg" description="A colored pencil Avocado" width="300" %}
 {% include images.html url="../images/paintings/roberta.jpg" description="A colored pencil Avocado" width="300" %} -->

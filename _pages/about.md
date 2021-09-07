@@ -14,6 +14,7 @@ Since I am still exploring, my interests are nascent. In general, I am fascinate
 Beginning spring of 2021, I started to pursue the computer science master program at University of Washington. From 2018 to 2021, I obtained my Bachelor's degrees of computer science(B.S.) and mathematics(B.A.) with a minor of classical studies in the same school. During undergraduate years, I worked with Dr. [Ana Marasović](https://www.anamarasovic.com/) on a project about interpretability and Prof. [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on a project about dual random-walk systems.
 
 Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
+If you would like to know more about casual side of me, you can go to [Avocations tab](https://kaiserwholearns.github.io/avocations/).
 
 News
 ======
