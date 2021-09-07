@@ -22,24 +22,24 @@ In this page I placed some of my works that I found enjoyable in the process of 
 
 <img src="../images/paintings/BertAndRoberta.jpg" alt="BertAndRoberta" width="400"/>
 <img src="../images/paintings/Mojito.jpg" alt="mojito" width="400"/>
-<img src="../images/paintings/Lily.jpg" alt="lily" width="400"/>
+<img src="../images/paintings/Lily.jpg" alt="lily" width="300"/>
 <img src="../images/paintings/watercolor1.jpg" alt="watercolor1" width="400"/>
 
 **Some oil pastel paintings from 2019 to 2021:**
 
-<img src="../images/paintings/cat.jpg" alt="cat" width="400"/>
-<img src="../images/paintings/sky.jpg" alt="sky" width="400"/>
-<img src="../images/paintings/fuji.jpg" alt="fuji" width="400"/>
+<img src="../images/paintings/cat.jpg" alt="cat" width="300"/>
+<img src="../images/paintings/sky.jpg" alt="sky" width="300"/>
+<img src="../images/paintings/fuji.jpg" alt="fuji" width="300"/>
 
 **Some collate art from 2021:**
 
-<img src="../images/paintings/collage1.jpg" alt="c1" width="400"/>
-<img src="../images/paintings/collage2.jpg" alt="c2" width="400"/>
-<img src="../images/paintings/collage3.jpg" alt="c3" width="400"/>
+<img src="../images/paintings/collage1.jpg" alt="c1" width="300"/>
+<img src="../images/paintings/collage2.jpg" alt="c2" width="300"/>
+<img src="../images/paintings/collage3.jpg" alt="c3" width="300"/>
 
 **Some paintings from 2019 to 2020:**
 
-<img src="../images/paintings/Dazai.jpg" alt="dazai" width="400"/>
+<img src="../images/paintings/Dazai.jpg" alt="dazai" width="300"/>
 <img src="../images/paintings/Dazai2.jpg" alt="dazai1" width="400"/>
 <img src="../images/paintings/Shota.jpg" alt="shota" width="400"/>
 
