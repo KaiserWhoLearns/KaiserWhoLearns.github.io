@@ -9,7 +9,13 @@ I live in Seattle with my patner and two cats, Bert and Roberta. In my free time
 ### Some of my paintings
 {% include images.html url="../images/paintings/avocado.jpg" description="A colored pencil Avocado" width="300" %}
 {% include images.html url="../images/paintings/roberta.jpg" description="A colored pencil Avocado" width="300" %}
-<img src="../images/paintings/avocado.jpg" alt="avocado" width="400"/>
-<img src="../images/paintings/roberta.jpg" alt="roberta" width="400"/>
+
+
+<figure>
+    <img src="../images/paintings/avocado.jpg" alt="avocado" width="400"/>
+    <img src="../images/paintings/roberta.jpg" alt="roberta" width="400"/>
+    <img src="../images/paintings/eye.jpg" alt="eye" width="400"/>
+    <figcaption>Some colored pencil drawings beginning 2021 summer</figcaption>
+  </figure>
 
 ### Some of my photos
