@@ -12,10 +12,20 @@ I live in Seattle with my patner and two cats, Bert and Roberta. In my free time
 
 
 <figure>
-    <img src="../images/paintings/avocado.jpg" alt="avocado" width="400"/>
+    <img src="../images/paintings/avocado.jpg" alt="avocado" width="400" style="width:30px;height:30px;"/>
     <img src="../images/paintings/roberta.jpg" alt="roberta" width="400"/>
     <img src="../images/paintings/eye.jpg" alt="eye" width="400"/>
     <figcaption>Some colored pencil drawings beginning 2021 summer</figcaption>
-  </figure>
+</figure>
+
+<img src="../images/paintings/Mojito.jpg" alt="mojito" width="400"/>
+    <img src="../images/paintings/Lily.jpg" alt="lily" width="400"/>
+    
+<figure>
+    <img src="../images/paintings/BertAndRoberta.jpg" alt="BertAndRoberta" width="400"/>
+    <img src="../images/paintings/Mojito.jpg" alt="mojito" width="400"/>
+    <img src="../images/paintings/Lily.jpg" alt="lily" width="400"/>
+    <figcaption>Some watercolor paintings beginning 2021 summer</figcaption>
+</figure>
 
 ### Some of my photos
