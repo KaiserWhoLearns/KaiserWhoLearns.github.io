@@ -11,14 +11,28 @@ I live in Seattle with my patner and two cats, Bert and Roberta. In my free time
 {% include images.html url="../images/paintings/roberta.jpg" description="A colored pencil Avocado" width="300" %} -->
 
 Some colored pencil drawings beginning 2021 summer:
-<img src="../images/paintings/avocado.jpg" alt="avocado" width="400"/>
+
+<img src="../images/paintings/avocado.jpg" alt="avocado" width="350"/>
 <img src="../images/paintings/roberta.jpg" alt="roberta" width="400"/>
 <img src="../images/paintings/eye.jpg" alt="eye" width="400"/>
 
-Some watercolor paintings from 2019 to 2021:
+Some watercolor paintings from 2020 to 2021:
+
 <img src="../images/paintings/BertAndRoberta.jpg" alt="BertAndRoberta" width="400"/>
 <img src="../images/paintings/Mojito.jpg" alt="mojito" width="400"/>
 <img src="../images/paintings/Lily.jpg" alt="lily" width="400"/>
-<img src="../images/paintings/Watercolor_Manga1.jpg" alt="lily" width="400"/>
+<img src="../images/paintings/watercolor1.jpg" alt="watercolor1" width="400"/>
+
+Some oil pastel paintings from 2019 to 2021:
+
+<img src="../images/paintings/cat.jpg" alt="cat" width="400"/>
+<img src="../images/paintings/sky.jpg" alt="sky" width="400"/>
+<img src="../images/paintings/fuji.jpg" alt="fuji" width="400"/>
+
+Some watercolor characters inspired by [黄皮桑](https://www.pixiv.net/en/users/3251213):
+
+<img src="../images/paintings/Watercolor_Manga1.jpg" alt="wm1" width="400"/>
+<img src="../images/paintings/Watercolor_Manga2.jpg" alt="wm2" width="400"/>
+<img src="../images/paintings/Watercolor_Manga3.jpg" alt="wm3" width="400"/>
 
 ### Some of my photos
