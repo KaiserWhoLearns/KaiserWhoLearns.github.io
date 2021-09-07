@@ -6,14 +6,14 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Résumé"
+  - title: "Résumé/CV"
     url: /resume/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   - title: "Blog Posts"
     url: /year-archive/
