@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaiser Sun"
+title                    : "Kaiser Sun, University of Washington"
 title_separator          : "-"
 name                     : &name "Kaiser Sun"
 description              : &description "Master's student at University of Washington. they/them"
