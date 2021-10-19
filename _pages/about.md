@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+# title: "Kaiser Sun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
