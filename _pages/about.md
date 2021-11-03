@@ -15,9 +15,9 @@ From 2018 to 2021, I obtained my Bachelor's degrees of computer science(B.S.) an
 
 Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
-<sub><sup>I have a limited amount of experiences investigating things in life, but if you are having questions on finding SDE/DS internships or applying for master/undergraduate programs and you think I can help, no matter what your background is, please do not hesitate to email me.</sup></sub>
+<sub><sup>I have a limited amount of experiences investigating things in life, but if you are having questions on finding SDE/DS internships or applying for master/undergraduate programs and you think I can help, no matter what your background is, please do not hesitate to email me.
 
-<sub><sup>If you would like to know more about casual side of me, you can go to [Avocations tab](https://kaiserwholearns.github.io/avocations/).</sup></sub>
+If you would like to know more about casual side of me, you can go to [Avocations tab](https://kaiserwholearns.github.io/avocations/).</sup></sub>
 
 
 News
