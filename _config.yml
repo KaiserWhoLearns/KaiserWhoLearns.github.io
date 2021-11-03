@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kaiser Sun"
   avatar           : "profile.png"
-  bio              : 
+  bio              :
   pronouns         : "🏳️‍🌈  they/them"
   emailaddr        : "huikas at cs.washington.edu"
   location         : "Seattle, WA"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=cfWUuRAAAAAJ&hl=en&authuser=2&oi=sra"
   email            : "huikas@cs.washigton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
