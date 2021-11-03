@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "🏳️‍🌈Kaiser Sun🏳️‍🌈"
+  name             : "Kaiser Sun"
   avatar           : "profile.png"
-  bio              : "Non scholae sed vitae discimus."
-  pronouns         : "they/them"
+  bio              : 
+  pronouns         : "🏳️‍🌈they/them"
   emailaddr        : "huikas at cs.washington.edu"
   location         : "Seattle, WA"
   employer         :
