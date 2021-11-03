@@ -17,9 +17,6 @@ Thanks a lot to the support of my advisors and my donors, I was able to conduct 
 
 `I have a limited amount of experiences investigating things in life, but if you are having questions on finding SDE/DS internships or applying for master/undergraduate programs and you think I can help, no matter what your background is, please do not hesitate to email me.`
 
-`If you would like to know more about casual side of me, you can go to [Avocations tab](https://kaiserwholearns.github.io/avocations/).`
-
-
 News
 ======
 
