@@ -77,8 +77,8 @@ In this page I placed some of my works from 2019 that I found enjoyable in the p
 <img src="../images/photos/roberta2021.jpg" alt="roberta" width="200"/>
 <img src="../images/photos/sun2020.jpg" alt="sun2" width="200"/>
 
-<img src="../images/photos/fall.jpg" alt="fall" width="200"/>
-<img src="../images/photos/succlent.jpg" alt="succlent" width="200"/>
+<img src="../images/photos/fall.jpg" alt="fall" width="300"/>
+<img src="../images/photos/succlent.jpg" alt="succlent" width="300"/>
 
 ## Some of cocktails I made
 <img src="../images/cocktails/C1.jpg" alt="c1" width="200"/>

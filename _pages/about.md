@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello! I am a master's student at University of Washington learning natural language processing. My advisors are [Ana Marasović](https://www.anamarasovic.com/) and [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/).
 
-Since I am still exploring, my interests are nascent. In general, I am interested in natural language processing. Currently, I am inquisitive in **devloping novel techniques to facilitate efficient, explanable, and robust NLP**. I also find **bias and fairness** in NLP systems intriguing.
+Since I am still exploring, my interests are nascent. In general, I am interested in natural language processing. Currently, I am inquisitive in **devloping novel techniques to facilitate efficient, explanable NLP**. I also find **fairness and robustness** in NLP systems intriguing.
 
 From 2018 to 2021, I obtained my Bachelor's degrees of computer science (B.S.) and mathematics (B.A.) with a minor of classical studies in the same school. During undergraduate years, I worked with Dr. [Ana Marasović](https://www.anamarasovic.com/) on interpretability and Prof. [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems.
 
