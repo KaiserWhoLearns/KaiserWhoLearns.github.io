@@ -19,6 +19,8 @@ In this page I placed some of my works from 2019 that I found enjoyable in the p
 <img src="../images/paintings/eye.jpg" alt="eye" width="400"/>
 
 **Some watercolor paintings from 2020 to 2021:**
+<img src="../images/paintings/winter.jpg" alt="winter" width="300"/>
+<img src="../images/paintings/autumn.jpg" alt="autumn" width="300"/>
 
 <img src="../images/paintings/BertAndRoberta.jpg" alt="BertAndRoberta" width="400"/>
 <img src="../images/paintings/Mojito.jpg" alt="mojito" width="400"/>
@@ -86,3 +88,5 @@ In this page I placed some of my works from 2019 that I found enjoyable in the p
 <img src="../images/cocktails/C10.jpg" alt="c10" width="200"/>
 <img src="../images/cocktails/C11.jpg" alt="c11" width="200"/>
 <img src="../images/cocktails/C3.jpg" alt="c3" width="400"/>
+
+<img src="../images/cocktails/C12.jpg" alt="c12" width="200"/>
