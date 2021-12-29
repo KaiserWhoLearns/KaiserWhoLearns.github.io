@@ -19,8 +19,9 @@ In this page I placed some of my works from 2019 that I found enjoyable in the p
 <img src="../images/paintings/eye.jpg" alt="eye" width="400"/>
 
 **Some watercolor paintings from 2020 to 2021:**
-<img src="../images/paintings/winter.jpg" alt="winter" width="300"/>
-<img src="../images/paintings/autumn.jpg" alt="autumn" width="300"/>
+
+<img src="../images/paintings/winter.jpg" alt="winter" width="400"/>
+<img src="../images/paintings/autumn.jpg" alt="autumn" width="400"/>
 
 <img src="../images/paintings/BertAndRoberta.jpg" alt="BertAndRoberta" width="400"/>
 <img src="../images/paintings/Mojito.jpg" alt="mojito" width="400"/>
@@ -53,6 +54,8 @@ In this page I placed some of my works from 2019 that I found enjoyable in the p
 <img src="../images/paintings/Watercolor_Manga3.jpg" alt="wm3" width="300"/>
 
 ## Some of my photos
+<img src="../images/photos/sunset.jpg" alt="sunset" width="450"/>
+<img src="../images/photos/fall2.jpg" alt="fall2" width="450"/>
 
 <img src="../images/photos/cherryBlossom2019.jpg" alt="cb" width="450"/>
 <img src="../images/photos/DennyHall2019.jpg" alt="dh" width="450"/>
@@ -73,6 +76,9 @@ In this page I placed some of my works from 2019 that I found enjoyable in the p
 <img src="../images/photos/sun2021.jpg" alt="sun" width="200"/>
 <img src="../images/photos/roberta2021.jpg" alt="roberta" width="200"/>
 <img src="../images/photos/sun2020.jpg" alt="sun2" width="200"/>
+
+<img src="../images/photos/fall.jpg" alt="fall" width="200"/>
+<img src="../images/photos/succlent.jpg" alt="succlent" width="200"/>
 
 ## Some of cocktails I made
 <img src="../images/cocktails/C1.jpg" alt="c1" width="200"/>
