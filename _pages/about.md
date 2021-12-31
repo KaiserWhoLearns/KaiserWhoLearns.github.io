@@ -31,11 +31,11 @@ News in 2021
 <details>
   <summary>News before 2021</summary>
 
-  <b>[November 2020]</b> Joined <a href="https://noonum.ai"><u>Noonum</u></a> as a data scientist intern. <br/>
+  <b>[November 2020]</b> Joined <a href="https://noonum.ai">Noonum</a> as a data scientist intern. <br/>
 
   <b>[July 2020]</b> I began my software engineering internship in AuthEngine team at Amazon.<br/>
   
-  <b>[September 2019]</b> Began a project on dual random-walk systems with Professor <a href="https://sites.math.washington.edu/~hoffman/"><u>Christopher Hoffman</u></a> at Washington Experimental Mathematics Lab. <br/>
+  <b>[September 2019]</b> Began a project on dual random-walk systems with Professor <a href="https://sites.math.washington.edu/~hoffman/">Christopher Hoffman</a> at Washington Experimental Mathematics Lab. <br/>
 
   <b>[July 2019]</b> Began my internship at National Oceanic & Atmospheric Administration (NOAA) mentored by Dr. Jason Cope. <br/>
 </details>
