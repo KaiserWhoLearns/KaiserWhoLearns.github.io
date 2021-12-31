@@ -37,7 +37,7 @@ News in 2021
   
   <b>[September 2019]</b> Began a project on dual random-walk systems with Professor <a href="https://sites.math.washington.edu/~hoffman/">Christopher Hoffman</a> at Washington Experimental Mathematics Lab. <br/>
 
-  <b>[July 2019]</b> Began my internship at National Oceanic & Atmospheric Administration (NOAA) mentored by Dr. Jason Cope. <br/>
+  <b>[July 2019]</b> Began my internship at National Oceanic & Atmospheric Administration (NOAA) mentored by Dr. <a href="https://www.fisheries.noaa.gov/contact/jason-cope-phd">Jason Cope</a>. <br/>
 </details>
 
 
