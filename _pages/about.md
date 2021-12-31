@@ -15,7 +15,7 @@ I obtained my Bachelor's degrees of computer science (B.S.) and mathematics (B.A
 
 `I have a limited amount of experiences investigating things in life, but if you are having questions on finding SDE/DS internships or applying for master/undergraduate programs and you think I can help, no matter what your background is, please do not hesitate to email me.`
 
-News in 2021
+News
 ======
 **I am applying to PhD programs this fall, please wish me best of luck ⭐**
 **[December 2021]** I am joinning AWS AI as an applied scientist intern this summer, trying to figure out my proposal for it these days; I began as a teaching assistant in [Natural Language Processing](https://nasmith.github.io/NLP-winter22/about/) at UW for winter quarter. 
@@ -29,7 +29,7 @@ News in 2021
 **[March 2021]** I finished my Bachelor's degrees 🤓 - B.S. in CS and B.A. in math, as well as a minor in classical studies; I began as a teaching assistant in [Enterprise Chatbots](https://courses.cs.washington.edu/courses/csep590b/) at UW for spring quarter.
 
 <details>
-  <summary>News before 2021</summary>
+  <summary><b>News before 2021</b></summary>
 
   <b>[November 2020]</b> Joined <a href="https://noonum.ai">Noonum</a> as a data scientist intern. <br/>
 
@@ -39,6 +39,7 @@ News in 2021
 
   <b>[July 2019]</b> Began my internship at National Oceanic & Atmospheric Administration (NOAA) mentored by Dr. <a href="https://www.fisheries.noaa.gov/contact/jason-cope-phd">Jason Cope</a>. <br/>
 </details>
+<br>
 
 
 Cat Warning
