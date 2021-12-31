@@ -18,33 +18,33 @@ I obtained my Bachelor's degrees of computer science (B.S.) and mathematics (B.A
 News in 2021
 ======
 **I am applying to PhD programs this fall, please wish me best of luck ⭐**
-**December 2021**
+*December 2021*
  - I am joinning AWS AI as an applied scientist intern this summer, trying to figure out my proposal for it these days.
  - I began as a teaching assistant in [Natural Language Processing](https://nasmith.github.io/NLP-winter22/about/) at UW for winter quarter. 
 
-**September 2021**
+*September 2021*
  - I began as a teaching assistant in [Machine Learning](https://courses.cs.washington.edu/courses/csep546/21au/) at UW for fall quarter.
 
-**July 2021**
+*July 2021*
  - I began my software engineering internship in AuthService team at Amazon.
 
-**May 2021** 
+*May 2021*
  - Our paper “[Effective Attention Sheds Light On Interpretability](https://arxiv.org/abs/2105.08855)” was accepted into Findings of ACL2021. Big thanks to Ana! 🌻
 
-**March 2021**
+*March 2021*
  - I finished my Bachelor's degrees 🤓 - B.S. in CS and B.A. in math, as well as a minor in classical studies.
  - I began as a teaching assistant in [Enterprise Chatbots](https://courses.cs.washington.edu/courses/csep590b/) at UW for spring quarter.
 
 <details>
   <summary>News before 2021</summary>
 
-  <b>November 2020</b> Joined <a href=https://noonum.ai><u>Noonum</u></a> as a data scientist intern. <br/>
+  <b>[November 2020]</b> Joined <a href=https://noonum.ai><u>Noonum</u></a> as a data scientist intern. <br/>
 
-  <b>July 2020</b> I began my software engineering internship in AuthEngine team at Amazon.<br/>
+  <b>[July 2020]</b> I began my software engineering internship in AuthEngine team at Amazon.<br/>
   
-  <b>September 2019</b> Began a project on dual random-walk systems with Professor [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) at Washington Experimental Mathematics Lab. <br/>
+  <b>[September 2019]</b> Began a project on dual random-walk systems with Professor [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) at Washington Experimental Mathematics Lab. <br/>
 
-  <b>July 2019</b> Began my internship at National Oceanic & Atmospheric Administration (NOAA) mentored by Dr. Jason Cope.<br/>
+  <b>[July 2019]</b> Began my internship at National Oceanic & Atmospheric Administration (NOAA) mentored by Dr. Jason Cope. <br/>
 </details>
 
 
