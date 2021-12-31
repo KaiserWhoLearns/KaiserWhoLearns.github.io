@@ -18,6 +18,7 @@ I obtained my Bachelor's degrees of computer science (B.S.) and mathematics (B.A
 News
 ======
 **I am applying to PhD programs this fall, please wish me best of luck ⭐**
+
 **[December 2021]** I am joinning AWS AI as an applied scientist intern this summer, trying to figure out my proposal for it these days; I began as a teaching assistant in [Natural Language Processing](https://nasmith.github.io/NLP-winter22/about/) at UW for winter quarter. 
 
 **[September 2021]** I began as a teaching assistant in [Machine Learning](https://courses.cs.washington.edu/courses/csep546/21au/) at UW for fall quarter.
