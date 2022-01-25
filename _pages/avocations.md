@@ -5,7 +5,7 @@ permalink: /avocations/
 author_profile: true
 redirect_from:
 ---
-I live in Seattle with my patner and two cats, Bert and Roberta. In my free time, I like *photography* (with phone since I am a broken college student), *caligraphy*, *collage art*, and *drawing, painting with colored pencils, watercolor, gouache, as well as oil pastels*.
+I live in Seattle with my patner and two cats, Bert and Roberta. In my free time, I like *photography* (with phone since I am a broken college student), *cocktail mixing*, *caligraphy*, *making deserts*, and *drawing, painting with colored pencils, watercolor, gouache, as well as oil pastels*.
 
 In this page I placed some of my works from 2019 that I found enjoyable in the process of drawing/creating. Some ealier works are missing because I moved in 2018.
 ## Some of my paintings

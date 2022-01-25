@@ -11,7 +11,7 @@ Hello! I am a master's student at University of Washington learning natural lang
 
 Since I am still exploring, my interests are nascent. In general, I am interested in natural language processing. Currently, I am inquisitive in **devloping novel techniques to facilitate efficient, explanable NLP**. I also find **fairness and robustness** in NLP systems intriguing. 
 
-I obtained my Bachelor's degrees of computer science (B.S.) and mathematics (B.A.) in the same school. During my undergraduate years, I worked with [Ana Marasović](https://www.anamarasovic.com/) on interpretability and [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
+I obtained my Bachelor's degrees of computer science (B.S.) and mathematics (B.A.) at University of Washington, too. During my undergraduate years, I worked with [Ana Marasović](https://www.anamarasovic.com/) on interpretability and [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
 `I have a limited amount of experiences investigating things in life, but if you are having questions on finding SDE/DS internships or applying for master/undergraduate programs and you think I can help, no matter what your background is, please do not hesitate to email me.`
 
