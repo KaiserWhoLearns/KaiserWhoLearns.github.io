@@ -12,13 +12,13 @@ In this page I placed some of my works from 2019 that I found enjoyable in the p
 
 This is a drawing of my favorite 19th-century statue.
 
-<img src="../../images/painting1s/procreate/lucifer.PNG" alt="lucifer" width="350"/>
+<img src="../../images/paintings/procreate/lucifer.PNG" alt="lucifer" width="350"/>
 
 First attempt - my spouse and my profile pictures!
 
-<img src="../../images/paintings/procreate/chuang_profile.PNG" alt="chuang" width="350"/>
-<img src="../../images/paintings/procreate/profile_pic1.PNG" alt="me1" width="350"/>
-<img src="../../images/paintings/procreate/profile_pic2.PNG" alt="me2" width="350"/>
+<img src="../../images/paintings/procreate/chuang_profile.PNG" alt="chuang" width="300"/>
+<img src="../../images/paintings/procreate/profile_pic1.PNG" alt="me1" width="300"/>
+<img src="../../images/paintings/procreate/profile_pic2.PNG" alt="me2" width="300"/>
 
 My friend's goose, which is very aggressive.
 
@@ -27,24 +27,23 @@ My friend's goose, which is very aggressive.
 **Some colored pencil drawings beginning 2021 summer:**
 
 <img src="../../images/paintings/avocado.jpg" alt="avocado" width="350"/>
-<img src="../../images/paintings/roberta.jpg" alt="roberta" width="400"/>
+<img src="../../images/paintings/roberta.jpg" alt="roberta" width="350"/>
 <img src="../../images/paintings/eye.jpg" alt="eye" width="400"/>
 
 **Some watercolor paintings from 2020 to 2021:**
 
-<img src="../../images/paintings/winter.jpg" alt="winter" width="400"/>
-<img src="../../images/paintings/autumn.jpg" alt="autumn" width="400"/>
+<img src="../../images/paintings/winter.jpg" alt="winter" width="350"/>
+<img src="../../images/paintings/autumn.jpg" alt="autumn" width="350"/>
+<img src="../../images/paintings/BertAndRoberta.jpg" alt="BertAndRoberta" width="350"/>
 
-<img src="../../images/paintings/BertAndRoberta.jpg" alt="BertAndRoberta" width="400"/>
-<img src="../../images/paintings/Mojito.jpg" alt="mojito" width="400"/>
+<img src="../../images/paintings/Mojito.jpg" alt="mojito" width="350"/>
 <img src="../../images/paintings/Lily.jpg" alt="lily" width="300"/>
 <img src="../../images/paintings/watercolor1.jpg" alt="watercolor1" width="400"/>
 
 **Some oil pastel paintings from 2019 to 2021:**
 
-<img src="../../images/paintings/cat.jpg" alt="cat" width="300"/>
+<img src="../../images/paintings/cat.jpg" alt="cat" width="280"/>
 <img src="../../images/paintings/sky.jpg" alt="sky" width="300"/>
-
 <img src="../../images/paintings/fuji.jpg" alt="fuji" width="300"/>
 
 **Some collate art from 2021:**
