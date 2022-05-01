@@ -5,7 +5,7 @@ permalink: /avocations/
 author_profile: true
 redirect_from:
 ---
-I live in Seattle with my patner and two cats, Bert and Roberta. In my free time, I like *photography* (with phone since I am a broken college student), *cocktail mixing*, *caligraphy*, *making deserts*, and *drawing, painting with colored pencils, watercolor, gouache, as well as oil pastels*.
+I live in Seattle with my patner and two cats, Bert and Roberta. In my free time, I like *photography* (with phone since I am a broken college student), *cocktail mixing*, *caligraphy*, *cooking*, and *drawing, painting with colored pencils, watercolor, gouache, as well as oil pastels*.
 
 In this page I placed some of my works from 2019 that I found enjoyable in the process of drawing/creating. Some ealier works are missing because I moved in 2018.
 ## Some of my paintings
@@ -80,19 +80,4 @@ In this page I placed some of my works from 2019 that I found enjoyable in the p
 <img src="../images/photos/fall.jpg" alt="fall" width="300"/>
 <img src="../images/photos/succlent.jpg" alt="succlent" width="300"/>
 
-## Some of cocktails I made
-<img src="../images/cocktails/C1.jpg" alt="c1" width="200"/>
-<img src="../images/cocktails/C2.jpg" alt="c2" width="200"/>
-<img src="../images/cocktails/C4.jpg" alt="c4" width="200"/>
-<img src="../images/cocktails/C5.jpg" alt="c5" width="200"/>
-
-<img src="../images/cocktails/C6.jpg" alt="c6" width="200"/>
-<img src="../images/cocktails/C7.jpg" alt="c7" width="200"/>
-<img src="../images/cocktails/C8.jpg" alt="c8" width="200"/>
-<img src="../images/cocktails/C9.jpg" alt="c9" width="200"/>
-
-<img src="../images/cocktails/C10.jpg" alt="c10" width="200"/>
-<img src="../images/cocktails/C11.jpg" alt="c11" width="200"/>
-<img src="../images/cocktails/C3.jpg" alt="c3" width="400"/>
-
-<img src="../images/cocktails/C12.jpg" alt="c12" width="200"/>
+[Here](https://kaiserwholearns.github.io/avocations/cocktails) are some cocktails I mixed.
