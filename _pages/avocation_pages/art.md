@@ -10,7 +10,11 @@ In this page I placed some of my works from 2019 that I found enjoyable in the p
 
 **(Added Apr 30, 2022) I am learning to use Procreate - just realized how powerful it is.**
 
-This is a drawing of my favorite 19th-century statue.
+A practice on how to use color picker and brush :) Drew the joker that I have been procrastinating since 2019. (May 1, 2022)
+<img src="../../images/paintings/procreate/joker1.PNG" alt="joker1" width="400"/>
+<img src="../../images/paintings/procreate/joker2.PNG" alt="joker2" width="400"/>
+
+This is a drawing of my favorite 19th-century statue. My first try on slightly complex object on Procreate! (Apr 30, 2022)
 
 <img src="../../images/paintings/procreate/lucifer.PNG" alt="lucifer" width="350"/>
 
