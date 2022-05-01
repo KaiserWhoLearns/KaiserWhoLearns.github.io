@@ -29,13 +29,13 @@ News
 <details>
   <summary><b>Older News</b></summary>
 
-  <b>September 2021]</b> I began as a teaching assistant in <a href="https://courses.cs.washington.edu/courses/csep546/21au/">Machine Learning</a> at UW for fall quarter. <br/>
+  <b>[September 2021]</b> I began as a teaching assistant in <a href="https://courses.cs.washington.edu/courses/csep546/21au/">Machine Learning</a> at UW for fall quarter. <br/>
 
- <b>July 2021]</b> I began my software engineering internship in AuthService team at Amazon. <br/>
+ <b>[July 2021]</b> I began my software engineering internship in AuthService team at Amazon. <br/>
 
- <b>May 2021]</b> Our paper <a href="https://aclanthology.org/2021.findings-acl.361.pdf">Effective Attention Sheds Light On Interpretability</a> was accepted into Findings of ACL2021. Big thanks to Ana! 🌻 <br/>
+ <b>[May 2021]</b> Our paper <a href="https://aclanthology.org/2021.findings-acl.361.pdf">Effective Attention Sheds Light On Interpretability</a> was accepted into Findings of ACL2021. Big thanks to Ana! 🌻 <br/>
 
- <b>March 2021]</b> I finished my Bachelor's degrees 🤓 - B.S. in CS and B.A. in math, as well as a minor in classical studies; I began as a teaching assistant in <a href="https://courses.cs.washington.edu/courses/csep590b/">Enterprise Chatbots</a> at UW for spring quarter. <br/>
+ <b>[March 2021]</b> I finished my Bachelor's degrees 🤓 - B.S. in CS and B.A. in math, as well as a minor in classical studies; I began as a teaching assistant in <a href="https://courses.cs.washington.edu/courses/csep590b/">Enterprise Chatbots</a> at UW for spring quarter. <br/>
 
   <b>[November 2020]</b> Joined <a href="https://noonum.ai">Noonum</a> as a data scientist intern. <br/>
 
