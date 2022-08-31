@@ -20,7 +20,11 @@ my day becomes better when I open my bento in office and such a beautiful layout
 ### I make a lot of desserts!
 
 <img src="../../images/food/cookie.jpg" alt="cookie" width="300"/>
-<img src="../../images/food/sakura_putting.jpg" alt="pudding" width="200"/>
+<img src="../../images/food/sakura_pudding.jpg" alt="pudding" width="200"/>
+
+### Other dishes...
+<img src="../../images/food/pasta.jpg" alt="pasta" width="300"/>
+<img src="../../images/food/ramen.jpg" alt="ramen" width="300"/>
 <img src="../../images/food/egg.jpg" alt="egg" width="300"/>
 
 ### I like making cha-kaiseki, too.
@@ -31,5 +35,3 @@ my day becomes better when I open my bento in office and such a beautiful layout
 <img src="../../images/food/new_year_food.jpg" alt="new_year" width="300"/>
 
 <img src="../../images/food/soba_with_soup.jpg" alt="soba" width="400"/>
-
-
