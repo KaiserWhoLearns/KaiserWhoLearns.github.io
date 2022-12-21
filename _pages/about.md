@@ -20,7 +20,7 @@ I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) a
 News
 ======
 **[Dec 2022]** New preprints 📄 available: [Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks](https://arxiv.org/pdf/2212.09912) (done as intern at AWS AI), [State-of-the-art generalisation research in NLP: a taxonomy and review](https://arxiv.org/abs/2210.03050)
-]
+
 
 **[August 2022]** I moved to New York City, and will spend a year here for my residency at Meta AI, working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/)!
 
