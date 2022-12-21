@@ -11,14 +11,17 @@ Hello! I am an AI resident at [FAIR Labs](https://ai.facebook.com/research/), wo
 
 Since I am still exploring, my interests are nascent. In general, I am interested in natural language processing. Currently, I am inquisitive in **developing novel techniques to facilitate efficient, explainable, robust NLP**. I also want to keep **fairness and biases** in mind when conducting my research.
 
-Previsouly, I pursued my master's degree at University of Washington. I obtained my Bachelor's degrees of computer science (B.S.) and mathematics (B.A.) at UW, too. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
+I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) at UW, too. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
 `I have a limited amount of experiences investigating things in life, but if you are having questions on finding SDE/DS internships or applying for master/undergraduate programs and you think I can help, no matter what your background is, please do not hesitate to email me.`
 
-`My hair color and hair style change a lot. Sorry for making people confused - I like trying new look :)`
+`My hair color and hair style change a lot, thus my profile pic is not an accurate description of me. Sorry for making people confused :)`
 
 News
 ======
+**[Dec 2022]** New preprints 📄 available: [Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks](https://arxiv.org/pdf/2212.09912) (done as intern at AWS AI), [State-of-the-art generalisation research in NLP: a taxonomy and review](https://arxiv.org/abs/2210.03050)
+]
+
 **[August 2022]** I moved to New York City, and will spend a year here for my residency at Meta AI, working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/)!
 
 **[June 2022]** I moved to Santa Clara for my internship at AWS AI, working with [Peng Qi](https://qipeng.me/) and [Yuhao Zhang](https://yuhao.im/).
