@@ -8,11 +8,15 @@ redirect_from:
 
 The thing I like most is to **create** things and play with different mediums. Many of the items I made or drew are from some video games, shows, or books I love. 
 
+<details>
+  <summary><b>Some 3D prints (model built on my own if not specified).</b></summary>
 
-Some 3D prints (model built on my own if not specified).
 
 <img src="../../images/crafts/3dmiku.png" alt="miku" width="400"/>
 <img src="../../images/crafts/3dPrint.png" alt="splatoon" width="400"/>
+
+</details>
+<br>
 
 Many attempts to make "acrylic" pedants from scratch, because I do not want to order a large batch of my printed art.
 
