@@ -17,7 +17,7 @@ I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) a
 
 News
 ======
-**[July 2023]** Our work [A Replication Study of Compositional Generalization Works on Semantic Parsing](https://openreview.net/forum?id=MF9uv95psps) was recognized as an Outstanding Paper 🏆 in the [ML Reproducibility challenge](https://paperswithcode.com/rc2022).
+**[July 2023]** Our work [A Replication Study of Compositional Generalization Works on Semantic Parsing](https://openreview.net/forum?id=MF9uv95psps) was recognized as an **Outstanding Paper** 🏆 in the [ML Reproducibility challenge](https://paperswithcode.com/rc2022).
 
 **[December 2022]** New preprints 📄 available: [Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks](https://arxiv.org/pdf/2212.09912) (done as intern at AWS AI), [State-of-the-art generalisation research in NLP: a taxonomy and review](https://arxiv.org/abs/2210.03050)
 
