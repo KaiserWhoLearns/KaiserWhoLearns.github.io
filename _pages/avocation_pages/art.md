@@ -7,12 +7,12 @@ redirect_from:
 ---
 **[Jul 31, 2023] Had more time to draw.**
 
-<img src="../../images/paintings/procreate/Yakuza.png" alt="yakuza" width="400"/>
-<img src="../../images/paintings/procreate/Mihawk.png" alt="mihawk" width="300"/>
+<img src="../../images/paintings/Yakuza.png" alt="yakuza" width="400"/>
+<img src="../../images/paintings/Mihawk.png" alt="mihawk" width="300"/>
 
-<img src="../../images/paintings/procreate/plant.png" alt="plant" width="200"/>
-<img src="../../images/paintings/procreate/Deepcut.png" alt="deepcut" width="300"/>
-<img src="../../images/paintings/procreate/Iono.png" alt="iono" width="200"/>
+<img src="../../images/paintings/plant.png" alt="plant" width="200"/>
+<img src="../../images/paintings/Deepcut.png" alt="deepcut" width="300"/>
+<img src="../../images/paintings/Iono.png" alt="iono" width="200"/>
 
 **[Apr 30, 2022] I am learning to use Procreate - just realized how powerful it is.**
 
