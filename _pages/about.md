@@ -13,23 +13,22 @@ Since I am still exploring, my interests are nascent. In general, I am intereste
 
 I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) at UW, too. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
-`I have a limited amount of experiences investigating things in life, but if you are having questions on finding SDE/DS internships or applying for master/undergraduate programs and you think I can help, no matter what your background is, please do not hesitate to email me.`
-
-`My hair color and hair style change a lot, thus my profile pic is not an accurate description of me. Sorry for making people confused :)`
+`I have a limited amount of experiences investigating things in life, but if you are having questions and you think I can help, feel free to email me.`
 
 News
 ======
-**[Dec 2022]** New preprints 📄 available: [Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks](https://arxiv.org/pdf/2212.09912) (done as intern at AWS AI), [State-of-the-art generalisation research in NLP: a taxonomy and review](https://arxiv.org/abs/2210.03050)
+**[July 2023]** Our work [A Replication Study of Compositional Generalization Works on Semantic Parsing](https://openreview.net/forum?id=MF9uv95psps) was recognized as an Outstanding Paper 🏆 in the [ML Reproducibility challenge](https://paperswithcode.com/rc2022).
 
-
-**[August 2022]** I moved to New York City, and will spend a year here for my residency at Meta AI, working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/)!
-
-**[June 2022]** I moved to Santa Clara for my internship at AWS AI, working with [Peng Qi](https://qipeng.me/) and [Yuhao Zhang](https://yuhao.im/).
+**[December 2022]** New preprints 📄 available: [Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks](https://arxiv.org/pdf/2212.09912) (done as intern at AWS AI), [State-of-the-art generalisation research in NLP: a taxonomy and review](https://arxiv.org/abs/2210.03050)
 
 **[April 2022]** I will join [JHU CLSP](https://www.clsp.jhu.edu/) and will be working with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) in the fall of 2023 for my Ph.D. study! 😆⭐
 
 <details>
   <summary><b>Older News</b></summary>
+
+  <b>[August 2022]</b> I moved to New York City, and will spend a year here for my residency at Meta AI, working with <a href="https://ai.facebook.com/people/adina-williams">Adina Williams</a> and <a href="https://dieuwkehupkes.nl/">Dieuwke Hupkes</a>. <br/>
+
+  <b>[June 2022]</b> I moved to Santa Clara for my internship at AWS AI, working with <a href="https://qipeng.me/">Peng Qi</a> and <a href="https://yuhao.im/">Yuhao Zhang</a>. <br/>
 
   <b>[December 2021]</b> I began as a teaching assistant in <a href="https://nasmith.github.io/NLP-winter22/about/">Natural Language Processing</a> at UW for winter and spring quarter. <br/>
 
