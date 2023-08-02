@@ -5,10 +5,16 @@ permalink: /avocations/art/
 author_profile: true
 redirect_from:
 ---
+**[Jul 31, 2023] Had more time to draw.**
 
-In this page I placed some of my works from 2019 that I found enjoyable in the process of drawing/creating. Some ealier works are missing because I moved in 2018.
+<img src="../../images/paintings/procreate/Yakuza.png" alt="yakuza" width="400"/>
+<img src="../../images/paintings/procreate/Mihawk.png" alt="mihawk" width="300"/>
 
-**(Added Apr 30, 2022) I am learning to use Procreate - just realized how powerful it is.**
+<img src="../../images/paintings/procreate/plant.png" alt="plant" width="200"/>
+<img src="../../images/paintings/procreate/Deepcut.png" alt="deepcut" width="300"/>
+<img src="../../images/paintings/procreate/Iono.png" alt="iono" width="200"/>
+
+**[Apr 30, 2022] I am learning to use Procreate - just realized how powerful it is.**
 
 A practice on how to use color picker and brush :) Drew the joker that I have been procrastinating since 2019. (May 1, 2022)
 
@@ -19,7 +25,7 @@ This is a drawing of my favorite 19th-century statue. My first try on slightly c
 
 <img src="../../images/paintings/procreate/lucifer.PNG" alt="lucifer" width="350"/>
 
-First attempt - my spouse and my profile pictures!
+<!-- First attempt - my spouse and my profile pictures!
 
 <img src="../../images/paintings/procreate/chuang_profile.PNG" alt="chuang" width="300"/>
 <img src="../../images/paintings/procreate/profile_pic1.PNG" alt="me1" width="300"/>
@@ -27,13 +33,7 @@ First attempt - my spouse and my profile pictures!
 
 My friend's goose, which is very aggressive.
 
-<img src="../../images/paintings/procreate/goose.PNG" alt="goose" width="350"/>
-
-**Some colored pencil drawings beginning 2021 summer:**
-
-<img src="../../images/paintings/avocado.jpg" alt="avocado" width="350"/>
-<img src="../../images/paintings/roberta.jpg" alt="roberta" width="350"/>
-<img src="../../images/paintings/eye.jpg" alt="eye" width="400"/>
+<img src="../../images/paintings/procreate/goose.PNG" alt="goose" width="350"/> -->
 
 **Some watercolor paintings from 2020 to 2021:**
 
@@ -44,6 +44,12 @@ My friend's goose, which is very aggressive.
 <img src="../../images/paintings/Mojito.jpg" alt="mojito" width="350"/>
 <img src="../../images/paintings/Lily.jpg" alt="lily" width="300"/>
 <img src="../../images/paintings/watercolor1.jpg" alt="watercolor1" width="400"/>
+
+**Some colored pencil drawings beginning 2021 summer:**
+
+<img src="../../images/paintings/avocado.jpg" alt="avocado" width="350"/>
+<img src="../../images/paintings/roberta.jpg" alt="roberta" width="350"/>
+<img src="../../images/paintings/eye.jpg" alt="eye" width="400"/>
 
 **Some oil pastel paintings from 2019 to 2021:**
 

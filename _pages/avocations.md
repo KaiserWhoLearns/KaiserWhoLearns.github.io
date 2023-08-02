@@ -5,10 +5,12 @@ permalink: /avocations/
 author_profile: true
 redirect_from:
 ---
-I live in Seattle with my patner and two cats, Bert and Roberta. In my free time, I like *photography* (with phone since I am a broken college student), *cocktail mixing*, *caligraphy*, *cooking*, and *drawing, painting with colored pencils, watercolor, gouache, as well as oil pastels*.
+In my free time, I like *making drinks (cocktail, tea, coffee)*, *caligraphy*, *painting*, and *crafting*.
 
 
 **[Here](https://kaiserwholearns.github.io/avocations/art) are my drawings.**
+
+**[My crafts](https://kaiserwholearns.github.io/avocations/craft).**
 
 **[Photos in my Life](https://kaiserwholearns.github.io/avocations/photos)**
 
