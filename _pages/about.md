@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am an AI resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/).
-
+Hello! I am a PhD student at [JHU CLSP](https://www.clsp.jhu.edu/), and my advisor is [Mark Dredze](https://www.cs.jhu.edu/~mdredze/).
+ 
 Since I am still exploring, my interests are nascent. In general, I am interested in natural language processing. Currently, I am inquisitive in **developing novel techniques to facilitate efficient, explainable, robust NLP**. I also want to keep **fairness and biases** in mind when conducting my research.
 
-I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) at UW, too. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
+Before that, I was a AI resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) at UW, too. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
 `I have a limited amount of experiences investigating things in life, but if you are having questions and you think I can help, feel free to email me.`
 
@@ -20,8 +20,6 @@ News
 **[July 2023]** Our work [A Replication Study of Compositional Generalization Works on Semantic Parsing](https://openreview.net/forum?id=MF9uv95psps) was recognized as an **Outstanding Paper** 🏆 in the [ML Reproducibility challenge](https://paperswithcode.com/rc2022).
 
 **[December 2022]** New preprints 📄 available: [Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks](https://arxiv.org/pdf/2212.09912) (done as intern at AWS AI), [State-of-the-art generalisation research in NLP: a taxonomy and review](https://arxiv.org/abs/2210.03050)
-
-**[April 2022]** I will join [JHU CLSP](https://www.clsp.jhu.edu/) and will be working with [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) in the fall of 2023 for my Ph.D. study! 😆⭐
 
 <details>
   <summary><b>Older News</b></summary>
