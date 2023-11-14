@@ -25,7 +25,7 @@ News
 <details>
   <summary><b>Older News</b></summary>
 
-  <b>[August 2022]</b> I moved to New York City, and will spend a year here for my residency at Meta AI, working with <a href="https://ai.facebook.com/people/adina-williams">Adina Williams</a> and <a href="https://dieuwkehupkes.nl/">Dieuwke Hupkes</a>. <br/>
+  <b>[August 2022]</b> I finished my master's degree, moved to New York City, and will spend a year here for my residency at Meta AI, working with <a href="https://ai.facebook.com/people/adina-williams">Adina Williams</a> and <a href="https://dieuwkehupkes.nl/">Dieuwke Hupkes</a>. <br/>
 
   <b>[June 2022]</b> I moved to Santa Clara for my internship at AWS AI, working with <a href="https://qipeng.me/">Peng Qi</a> and <a href="https://yuhao.im/">Yuhao Zhang</a>. <br/>
 
