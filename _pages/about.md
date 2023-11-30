@@ -18,7 +18,7 @@ Before that, I was a resident at [FAIR Labs](https://ai.facebook.com/research/),
 News
 ======
 
-**[October 2023]** New papers 📄: [Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks](https://arxiv.org/pdf/2212.09912) is accepted into Findings of EMNLP2023; [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514) is accepted into CoNLL2023; [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y) is accepted into Nature Machine Intelligence.
+**[October 2023]** New papers 📄: [Tokenization Consistency Matters for Generative Models on Extractive Tasks](https://arxiv.org/pdf/2212.09912) is accepted into Findings of EMNLP2023; [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514) is accepted into CoNLL2023; [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y) is accepted into Nature Machine Intelligence.
 
 **[July 2023]** Our work [A Replication Study of Compositional Generalization Works on Semantic Parsing](https://openreview.net/forum?id=MF9uv95psps) was recognized as an **Outstanding Paper** 🏆 in the [ML Reproducibility challenge](https://paperswithcode.com/rc2022).
 
