@@ -11,14 +11,15 @@ Hello! I am a PhD student at [JHU CLSP](https://www.clsp.jhu.edu/), and my advis
  
 Since I am still exploring, my interests are nascent. In general, I am interested in **interpretability, evaluation, and generalization**. I also want to keep **fairness and biases** in mind when conducting my research.
 
-Before that, I was a resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) with a mnior in classical studies at University of Washington. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
+Before my PhD studies, I was a resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) with a mnior in classical studies at University of Washington. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
 `I have a limited amount of experiences investigating things in life, but if you are having questions and you think I can help, feel free to email me.`
 
 News
 ======
+**[December 2023]** Our paper, [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514), received an **Honorable Mention** 🏆 in CoNLL2023.
 
-**[October 2023]** New papers 📄: [Tokenization Consistency Matters for Generative Models on Extractive Tasks](https://arxiv.org/pdf/2212.09912) is accepted into Findings of EMNLP2023; [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514) is accepted into CoNLL2023; [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y) is accepted into Nature Machine Intelligence.
+**[October 2023]** New papers 📄: [Tokenization Consistency Matters for Generative Models on Extractive Tasks](https://arxiv.org/pdf/2212.09912) is accepted into Findings of EMNLP2023; [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514) is accepted into CoNLL2023; <- I will be presenting them in Singapore. [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y) is accepted into Nature Machine Intelligence.
 
 **[July 2023]** Our work [A Replication Study of Compositional Generalization Works on Semantic Parsing](https://openreview.net/forum?id=MF9uv95psps) was recognized as an **Outstanding Paper** 🏆 in the [ML Reproducibility challenge](https://paperswithcode.com/rc2022).
 
@@ -37,7 +38,7 @@ News
 
  <b>[May 2021]</b> Our paper <a href="https://aclanthology.org/2021.findings-acl.361.pdf">Effective Attention Sheds Light On Interpretability</a> was accepted into Findings of ACL2021. Big thanks to Ana! 🌻 <br/>
 
- <b>[March 2021]</b> I finished my Bachelor's degrees 🤓 - B.S. in CS and B.A. in math, as well as a minor in classical studies; I began as a teaching assistant in <a href="https://courses.cs.washington.edu/courses/csep590b/">Enterprise Chatbots</a> at UW for spring quarter. <br/>
+ <b>[March 2021]</b> Finished my Bachelor's degrees 🤓 - B.S. in CS and B.A. in math, as well as a minor in classical studies; I began as a teaching assistant in <a href="https://courses.cs.washington.edu/courses/csep590b/">Enterprise Chatbots</a> at UW for spring quarter. <br/>
 
   <b>[November 2020]</b> Joined <a href="https://noonum.ai">Noonum</a> as a data scientist intern. <br/>
 
