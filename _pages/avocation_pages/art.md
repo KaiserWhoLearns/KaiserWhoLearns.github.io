@@ -5,6 +5,15 @@ permalink: /avocations/art/
 author_profile: true
 redirect_from:
 ---
+**[Jan 5, 2023] Started to use alcohol markers and acrylic markers**
+<img src="../../images/paintings/alcohol_daizai.JPG" alt="dazai" width="350"/>
+<img src="../../images/paintings/alcohol_miku.JPG" alt="miku" width="350"/>
+
+<img src="../../images/paintings/acrylic_lolipop.JPG" alt="lolipop" width="400"/>
+<img src="../../images/paintings/acrylic_wave.JPG" alt="wave" width="350"/>
+
+<img src="../../images/paintings/kuzan.PNG" alt="kuzan" width="400"/>
+
 **[Jul 31, 2023] Had more time to draw.**
 
 <img src="../../images/paintings/Yakuza.png" alt="yakuza" width="400"/>
