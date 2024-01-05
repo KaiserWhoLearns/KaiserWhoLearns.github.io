@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 **[Jan 5, 2023] Started to use alcohol markers and acrylic markers**
-<img src="../../images/paintings/alcohol_daizai.JPG" alt="dazai" width="350"/>
+<img src="../../images/paintings/alcohol_dazai.JPG" alt="dazai" width="350"/>
 <img src="../../images/paintings/alcohol_miku.JPG" alt="miku" width="350"/>
 
 <img src="../../images/paintings/acrylic_lolipop.JPG" alt="lolipop" width="400"/>
