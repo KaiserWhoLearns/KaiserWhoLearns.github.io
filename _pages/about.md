@@ -26,7 +26,7 @@ News
 
 <details>
   <summary><b>Older News</b></summary>
-  <b>[July 2023]</b> Our work <a href="https://openreview.net/forum?id=MF9uv95psps">A Replication Study of Compositional Generalization Works on Semantic Parsing</a> was recognized as an 🏆 Outstanding Paper 🏆 in the <a href=https://paperswithcode.com/rc2022)>ML Reproducibility challenge</a>. <br/>
+  <b>[July 2023]</b> Our work <a href="https://openreview.net/forum?id=MF9uv95psps">A Replication Study of Compositional Generalization Works on Semantic Parsing</a> was recognized as an 🏆 Outstanding Paper 🏆 in the <a href="https://paperswithcode.com/rc2022">ML Reproducibility challenge</a>. <br/>
 
   <b>[August 2022]</b> I finished my master's degree, moved to New York City, and will spend a year here for my residency at Meta AI, working with <a href="https://ai.facebook.com/people/adina-williams">Adina Williams</a> and <a href="https://dieuwkehupkes.nl/">Dieuwke Hupkes</a>. <br/>
 
