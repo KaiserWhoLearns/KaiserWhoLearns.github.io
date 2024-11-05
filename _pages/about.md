@@ -10,9 +10,10 @@ redirect_from:
 Hello! I am a PhD student at [JHU CLSP](https://www.clsp.jhu.edu/), advised by [Mark Dredze](https://www.cs.jhu.edu/~mdredze/).
  
 My interests are protean due to my restless curiosity. I am generally interested in understanding how language models function and exploring how we can change them.
-Terminologically, I am interested in studying **interpretability (broadly), training dynamics, and reasoning** of language models.
+Terminologically, I am interested in studying **interpretability (broadly), training dynamics, evaluation, and reasoning of language models**.
 
-Before my PhD studies, I was a resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) with a mnior in classical studies at University of Washington. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
+Before my PhD studies, I was a resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) with a mnior in classical studies at University of Washington. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). I have also interned at the AWS AI Labs for two times, mentored by [Peng Qi](https://qipeng.me/), [Yuhao Zhang](https://yuhao.im/), [Jifan Chen](https://jifan-chen.github.io/), and [Danilo Ribeiro](https://dnr2.github.io/academic_website/).
+During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
 `I have a limited amount of life experiences, but if you are having questions and you think I can help, feel free to email me.`
 
