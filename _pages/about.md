@@ -12,21 +12,25 @@ Hello! I am a PhD student at [JHU CLSP](https://www.clsp.jhu.edu/), advised by [
 My interests are protean due to my restless curiosity. I am generally interested in understanding how language models function and exploring how we can change them.
 Terminologically, I am interested in studying **interpretability (broadly), training dynamics, evaluation, and reasoning of language models**.
 
-Before my PhD studies, I was a resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) with a mnior in classical studies at University of Washington. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). I have also interned at the AWS AI Labs for two times, mentored by [Peng Qi](https://qipeng.me/), [Yuhao Zhang](https://yuhao.im/), [Jifan Chen](https://jifan-chen.github.io/), and [Danilo Ribeiro](https://dnr2.github.io/academic_website/).
+Before my PhD studies, I was a resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) with a minor in classical studies at University of Washington. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). I have also interned at the AWS AI Labs for two times, mentored by [Peng Qi](https://qipeng.me/), [Yuhao Zhang](https://yuhao.im/), [Jifan Chen](https://jifan-chen.github.io/), and [Danilo Ribeiro](https://dnr2.github.io/academic_website/).
 During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
 `I have a limited amount of life experiences, but if you are having questions and you think I can help, feel free to email me.`
 
 News
 ======
-**[August 2024]** New preprint 📄: [Amuro and Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.06663). [Our system](https://aclanthology.org/2024.iwslt-1.19.pdf) achieve great performance 📈 in almost all languages in the [IWSLT low-resource speech translation shared task](https://iwslt.org/2024/low-resource). 
+**[April 2025]** New papers 📄: [Amuro and Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.06663) is accepted into RepL4NLP2025; [SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models](https://aclanthology.org/2025.naacl-long.600/) is accepted into NAACL2025.
+
+**[August 2024]** [Our system](https://aclanthology.org/2024.iwslt-1.19.pdf) achieve great performance 📈 in almost all languages in the [IWSLT low-resource speech translation shared task](https://iwslt.org/2024/low-resource). 
 
 **[December 2023]** Our paper, [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514), received an **Honorable Mention** 🏆 in CoNLL2023.
 
-**[October 2023]** New papers 📄: [Tokenization Consistency Matters for Generative Models on Extractive Tasks](https://arxiv.org/pdf/2212.09912) is accepted into Findings of EMNLP2023; [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514) is accepted into CoNLL2023; <- I will be presenting them in Singapore. [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y) is accepted into Nature Machine Intelligence.
+<!-- **[October 2023]** New papers 📄: [Tokenization Consistency Matters for Generative Models on Extractive Tasks](https://arxiv.org/pdf/2212.09912) is accepted into Findings of EMNLP2023; [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514) is accepted into CoNLL2023; <- I will be presenting them in Singapore. [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y) is accepted into Nature Machine Intelligence.
 
 <details>
   <summary><b>Older News</b></summary>
+  <b>[October 2023]</b> Our work <a href="https://arxiv.org/pdf/2212.09912">Tokenization Consistency Matters for Generative Models on Extractive Tasks</a> is accepted into Findings of EMNLP2023. <br/>
+
   <b>[July 2023]</b> Our work <a href="https://openreview.net/forum?id=MF9uv95psps">A Replication Study of Compositional Generalization Works on Semantic Parsing</a> was recognized as an 🏆 Outstanding Paper 🏆 in the <a href="https://paperswithcode.com/rc2022">ML Reproducibility challenge</a>. <br/>
 
   <b>[August 2022]</b> I finished my master's degree, moved to New York City, and will spend a year here for my residency at Meta AI, working with <a href="https://ai.facebook.com/people/adina-williams">Adina Williams</a> and <a href="https://dieuwkehupkes.nl/">Dieuwke Hupkes</a>. <br/>
@@ -51,7 +55,7 @@ News
 
   <b>[July 2019]</b> Began my internship at National Oceanic & Atmospheric Administration (NOAA) mentored by Dr. <a href="https://www.fisheries.noaa.gov/contact/jason-cope-phd">Jason Cope</a>. <br/>
 </details>
-<br>
+<br> -->
 
 
 Cat Warning
