@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-The thing I like most is to **create** things and play with different mediums. Many of the items I made or drew are from some video games, shows, or books I love. 
+The thing I like most is to **create** things and play with different mediums. Many of the items I made or drew are from some video games, anime, or books I love. 
 
 <details>
   <summary><b>Some 3D prints (model built on my own if not specified).</b></summary>
