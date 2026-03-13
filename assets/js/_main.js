@@ -60,8 +60,16 @@ $(document).ready(function(){
   // init smooth scroll
   $("a").smoothScroll({offset: -20});
 
+  // wrap gallery images in links so Magnific Popup can handle them
+  $(".gallery img, .gallery-wide img").each(function() {
+    var $img = $(this);
+    if (!$img.parent("a").length) {
+      $img.wrap('<a href="' + $img.attr("src") + '"></a>');
+    }
+  });
+
   // add lightbox class to all image links
-  $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+  $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif'],a[href$='.PNG']").addClass("image-popup");
 
   // Magnific-Popup options
   $(".image-popup").magnificPopup({
