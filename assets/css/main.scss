@@ -39,3 +39,93 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Avocations hub cards */
+.avocation-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.avocation-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.8rem 1rem;
+  border-radius: 12px;
+  background: #f8f8f8;
+  text-decoration: none !important;
+  color: #333 !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid #eee;
+}
+
+.avocation-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.avocation-card .card-emoji {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.avocation-card .card-label {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+/* Gallery grid */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+  margin: 1rem 0 1.5rem;
+}
+
+.gallery img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  cursor: pointer;
+}
+
+.gallery img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Wider gallery variant for landscape photos */
+.gallery-wide {
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.gallery-wide img {
+  height: 220px;
+}
+
+/* Crafts section styling */
+.craft-section {
+  margin-bottom: 1.5rem;
+}
+
+.craft-section summary {
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 0.7rem 0;
+  border-bottom: 2px solid #eee;
+  margin-bottom: 0.8rem;
+  transition: color 0.2s;
+}
+
+.craft-section summary:hover {
+  color: #494e52;
+}
+
+.craft-section[open] summary {
+  margin-bottom: 0.8rem;
+}

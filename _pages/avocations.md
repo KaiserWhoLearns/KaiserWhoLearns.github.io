@@ -5,15 +5,27 @@ permalink: /avocations/
 author_profile: true
 redirect_from:
 ---
-In my free time, I like *making drinks (cocktail, tea, coffee)*, *caligraphy*, *painting*, and *crafting*.
+In my free time, I like *making drinks (cocktail, tea, coffee)*, *calligraphy*, *painting*, and *crafting*.
 
-
-**[Here](https://kaiserwholearns.github.io/avocations/art) are my drawings.**
-
-**[My crafts](https://kaiserwholearns.github.io/avocations/craft).**
-
-**[Photos in my Life](https://kaiserwholearns.github.io/avocations/photos)**
-
-**[Food, food, food!](https://kaiserwholearns.github.io/avocations/food)**
-
-**[Here](https://kaiserwholearns.github.io/avocations/cocktails) are some cocktails I mixed.**
+<div class="avocation-grid">
+  <a href="/avocations/art" class="avocation-card">
+    <span class="card-emoji">🎨</span>
+    <span class="card-label">Drawings</span>
+  </a>
+  <a href="/avocations/craft" class="avocation-card">
+    <span class="card-emoji">🛠️</span>
+    <span class="card-label">Crafts</span>
+  </a>
+  <a href="/avocations/photos" class="avocation-card">
+    <span class="card-emoji">📷</span>
+    <span class="card-label">Photos</span>
+  </a>
+  <a href="/avocations/food" class="avocation-card">
+    <span class="card-emoji">🍱</span>
+    <span class="card-label">Food</span>
+  </a>
+  <a href="/avocations/cocktails" class="avocation-card">
+    <span class="card-emoji">🍸</span>
+    <span class="card-label">Cocktails</span>
+  </a>
+</div>
