@@ -19,16 +19,20 @@ During my undergraduate years, I also worked with [Christopher Hoffman](https://
 
 News
 ======
+**[March 2026]** New paper 📄: [Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs](https://arxiv.org/abs/2603.09095) is now available on arXiv.
+
+**[June 2025]** New paper 📄: [Task Matters: Knowledge Requirements Shape LLM Responses to Context-Memory Conflict](https://arxiv.org/abs/2506.06485) is now available on arXiv.
+
+**[May 2025]** New paper 📄: [On the Failure of Latent State Persistence in Large Language Models](https://arxiv.org/abs/2505.10571) is now available on arXiv.
+
 **[April 2025]** New papers 📄: [Amuro and Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.06663) is accepted into RepL4NLP2025; [SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models](https://aclanthology.org/2025.naacl-long.600/) is accepted into NAACL2025.
-
-**[August 2024]** [Our system](https://aclanthology.org/2024.iwslt-1.19.pdf) achieve great performance 📈 in almost all languages in the [IWSLT low-resource speech translation shared task](https://iwslt.org/2024/low-resource). 
-
-**[December 2023]** Our paper, [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514), received an **Honorable Mention** 🏆 in CoNLL2023.
-
-<!-- **[October 2023]** New papers 📄: [Tokenization Consistency Matters for Generative Models on Extractive Tasks](https://arxiv.org/pdf/2212.09912) is accepted into Findings of EMNLP2023; [The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks](https://arxiv.org/abs/2310.17514) is accepted into CoNLL2023; <- I will be presenting them in Singapore. [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y) is accepted into Nature Machine Intelligence.
 
 <details>
   <summary><b>Older News</b></summary>
+  <b>[August 2024]</b> <a href="https://aclanthology.org/2024.iwslt-1.19.pdf">Our system</a> achieve great performance 📈 in almost all languages in the <a href="https://iwslt.org/2024/low-resource">IWSLT low-resource speech translation shared task</a>. <br/>
+
+  <b>[December 2023]</b> Our paper, <a href="https://arxiv.org/abs/2310.17514">The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks</a>, received an <b>Honorable Mention</b> 🏆 in CoNLL2023. <br/>
+
   <b>[October 2023]</b> Our work <a href="https://arxiv.org/pdf/2212.09912">Tokenization Consistency Matters for Generative Models on Extractive Tasks</a> is accepted into Findings of EMNLP2023. <br/>
 
   <b>[July 2023]</b> Our work <a href="https://openreview.net/forum?id=MF9uv95psps">A Replication Study of Compositional Generalization Works on Semantic Parsing</a> was recognized as an 🏆 Outstanding Paper 🏆 in the <a href="https://paperswithcode.com/rc2022">ML Reproducibility challenge</a>. <br/>
@@ -55,7 +59,7 @@ News
 
   <b>[July 2019]</b> Began my internship at National Oceanic & Atmospheric Administration (NOAA) mentored by Dr. <a href="https://www.fisheries.noaa.gov/contact/jason-cope-phd">Jason Cope</a>. <br/>
 </details>
-<br> -->
+<br>
 
 
 Cat Warning
