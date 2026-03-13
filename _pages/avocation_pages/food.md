@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: avocation
 title: "Food"
 permalink: /avocations/food/
 author_profile: true

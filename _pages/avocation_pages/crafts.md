@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: avocation
 title: "Crafts"
 permalink: /avocations/craft/
 author_profile: true

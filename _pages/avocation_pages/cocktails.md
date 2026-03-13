@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: avocation
 title: "Cocktails"
 permalink: /avocations/cocktails/
 author_profile: true

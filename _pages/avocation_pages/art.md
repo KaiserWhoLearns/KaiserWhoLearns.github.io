@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: avocation
 title: "Drawings"
 permalink: /avocations/art/
 author_profile: true

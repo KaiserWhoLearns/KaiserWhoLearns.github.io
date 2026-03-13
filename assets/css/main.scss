@@ -40,6 +40,33 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* Splatoon 3 Blitz fonts */
+@font-face {
+  font-family: 'Blitz';
+  src: url('../fonts/BlitzMain.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Blitz';
+  src: url('../fonts/BlitzBold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Apply Blitz font to avocation elements */
+.avocation-page h1.page__title,
+.avocation-page h2,
+.avocation-page h3,
+.avocation-page .card-label,
+.avocation-page .craft-section summary b {
+  font-family: 'Blitz', sans-serif;
+  letter-spacing: 0.02em;
+}
+
 /* Avocations hub cards */
 .avocation-grid {
   display: grid;
