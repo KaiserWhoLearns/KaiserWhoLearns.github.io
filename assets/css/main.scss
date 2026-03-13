@@ -187,22 +187,11 @@
 
 /* ===== Homepage styling ===== */
 
-/* Research interest tags */
-.interest-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  margin: 0.6rem 0 1rem;
-}
-
-.interest-tags span {
-  display: inline-block;
-  padding: 0.25rem 0.7rem;
-  border-radius: 20px;
-  background: #eef2f7;
-  color: #3d5a80;
-  font-size: 0.85rem;
-  font-weight: 500;
+/* Inline keyword highlight */
+.highlight {
+  background: linear-gradient(to top, #d4e4f7 40%, transparent 40%);
+  padding: 0 2px;
+  font-weight: 600;
 }
 
 /* Contact callout */
