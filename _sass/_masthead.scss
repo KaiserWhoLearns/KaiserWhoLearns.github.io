@@ -5,6 +5,9 @@
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
+  background-color: rgba($background-color, 0.95);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -14,7 +17,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 1.2em 1.5em;
     font-family: $global-font-family;
 
     @include breakpoint($x-large) {
@@ -27,6 +30,12 @@
 
     a {
       text-decoration: none;
+      color: $masthead-link-color;
+      transition: color 0.15s ease;
+
+      &:hover {
+        color: $masthead-link-color-hover;
+      }
     }
   }
 }
