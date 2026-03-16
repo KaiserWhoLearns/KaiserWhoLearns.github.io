@@ -123,6 +123,7 @@ News
 </details>
 
 
+
 Cat Warning
 ======
 I have two very cute cats: Bert (white collar with white paws) and Roberta (grey and looks like a little leopard) - yes, they were adopted in 2019. While you are browsing my website, I hope pictures of Bert and Roberta can make you feel happy and relaxed for a second.
@@ -131,3 +132,7 @@ I have two very cute cats: Bert (white collar with white paws) and Roberta (grey
 <img src="../images/photos/SnugglingBertRoberta.jpg" alt="Bert and Roberta snuggling" width="300"/>
 <img src="../images/photos/BertRoberta.jpg" alt="Bert and Roberta" width="400"/>
 </div>
+
+Misc
+======
+My [Erdős number](https://www.csauthors.net/kaiser-sun/) is 4.
