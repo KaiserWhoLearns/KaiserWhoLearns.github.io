@@ -122,7 +122,7 @@ News
 
 </details>
 
-
+<br>
 
 Cat Warning
 ======
@@ -132,6 +132,8 @@ I have two very cute cats: Bert (white collar with white paws) and Roberta (grey
 <img src="../images/photos/SnugglingBertRoberta.jpg" alt="Bert and Roberta snuggling" width="300"/>
 <img src="../images/photos/BertRoberta.jpg" alt="Bert and Roberta" width="400"/>
 </div>
+
+<br>
 
 Misc
 ======
