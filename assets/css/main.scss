@@ -308,9 +308,14 @@
    Dark mode toggle button
    ========================================================================== */
 
+.greedy-nav {
+  display: flex;
+  align-items: center;
+}
+
 .dark-mode-toggle {
   position: absolute;
-  right: 1.5em;
+  right: 0;
   top: 50%;
   transform: translateY(-50%);
   background: none;
@@ -320,6 +325,7 @@
   height: 26px;
   cursor: pointer;
   padding: 0;
+  z-index: 15;
   transition: border-color 0.3s ease, background-color 0.3s ease;
 }
 
@@ -342,10 +348,6 @@
 .dark-mode .dark-mode-toggle .toggle-icon {
   transform: translateX(20px);
   background: #f0c040;
-}
-
-.masthead__inner-wrap {
-  position: relative;
 }
 
 /* ==========================================================================
