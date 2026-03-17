@@ -18,6 +18,21 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <button class="dark-mode-toggle" id="dark-mode-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <span class="toggle-icon"></span>
+      </button>
     </div>
   </div>
 </div>
+
+<script>
+(function() {
+  var toggle = document.getElementById('dark-mode-toggle');
+  if (!toggle) return;
+  toggle.addEventListener('click', function() {
+    document.documentElement.classList.toggle('dark-mode');
+    var isDark = document.documentElement.classList.contains('dark-mode');
+    localStorage.setItem('darkMode', isDark);
+  });
+})();
+</script>
