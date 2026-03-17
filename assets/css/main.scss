@@ -319,36 +319,34 @@
   top: 50%;
   transform: translateY(-50%);
   background: none !important;
-  border: 2px solid #bcc8ea !important;
-  border-radius: 20px;
-  width: 48px;
-  height: 26px !important;
+  border: none !important;
   cursor: pointer;
   padding: 0;
   z-index: 15;
   outline: none;
-  transition: border-color 0.3s ease, background-color 0.3s ease;
+  width: 28px;
+  height: 28px !important;
+  font-size: 1.25rem;
+  line-height: 28px;
+  text-align: center;
 }
 
-.greedy-nav .dark-mode-toggle .toggle-icon {
-  display: block;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background: #7f98d4;
-  position: relative;
-  left: 2px;
-  transition: transform 0.3s ease, background 0.3s ease;
+.greedy-nav .dark-mode-toggle .toggle-sun {
+  display: inline;
+  color: #7f98d4;
 }
 
-.dark-mode .greedy-nav .dark-mode-toggle {
-  border-color: #6b7faa !important;
-  background-color: #2a3550 !important;
+.greedy-nav .dark-mode-toggle .toggle-moon {
+  display: none;
+  color: #f0c040;
 }
 
-.dark-mode .greedy-nav .dark-mode-toggle .toggle-icon {
-  transform: translateX(20px);
-  background: #f0c040;
+.dark-mode .greedy-nav .dark-mode-toggle .toggle-sun {
+  display: none;
+}
+
+.dark-mode .greedy-nav .dark-mode-toggle .toggle-moon {
+  display: inline;
 }
 
 /* ==========================================================================
