@@ -313,23 +313,24 @@
   align-items: center;
 }
 
-.dark-mode-toggle {
+.greedy-nav .dark-mode-toggle {
   position: absolute;
   right: 0;
   top: 50%;
   transform: translateY(-50%);
-  background: none;
-  border: 2px solid #bcc8ea;
+  background: none !important;
+  border: 2px solid #bcc8ea !important;
   border-radius: 20px;
   width: 48px;
-  height: 26px;
+  height: 26px !important;
   cursor: pointer;
   padding: 0;
   z-index: 15;
+  outline: none;
   transition: border-color 0.3s ease, background-color 0.3s ease;
 }
 
-.dark-mode-toggle .toggle-icon {
+.greedy-nav .dark-mode-toggle .toggle-icon {
   display: block;
   width: 20px;
   height: 20px;
@@ -340,12 +341,12 @@
   transition: transform 0.3s ease, background 0.3s ease;
 }
 
-.dark-mode .dark-mode-toggle {
-  border-color: #6b7faa;
-  background-color: #2a3550;
+.dark-mode .greedy-nav .dark-mode-toggle {
+  border-color: #6b7faa !important;
+  background-color: #2a3550 !important;
 }
 
-.dark-mode .dark-mode-toggle .toggle-icon {
+.dark-mode .greedy-nav .dark-mode-toggle .toggle-icon {
   transform: translateX(20px);
   background: #f0c040;
 }
