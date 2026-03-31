@@ -13,7 +13,8 @@ My interests are protean due to my restless curiosity. I am generally interested
 Terminologically, I am interested in studying <span class="highlight">interpretability (broadly)</span>, <span class="highlight">training dynamics</span>, <span class="highlight">evaluation</span>, and <span class="highlight">reasoning</span> of language models.
 
 Before my PhD studies, I was a resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) with a minor in classical studies at University of Washington. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). I have also interned at the AWS AI Labs for two times, mentored by [Peng Qi](https://qipeng.me/), [Yuhao Zhang](https://yuhao.im/), [Jifan Chen](https://jifan-chen.github.io/), and [Danilo Ribeiro](https://dnr2.github.io/academic_website/).
-During my undergraduate years, I also worked with [Christopher Hoffman](https://sites.math.washington.edu/~hoffman/) on dual random-walk systems. Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
+My work has been recognized with an [Honorable Mention at CoNLL2023](https://aclanthology.org/2023.conll-1.19/), an [Outstanding Paper Award at MLRC2022](https://openreview.net/forum?id=MF9uv95psps), and some media coverage.
+Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
 <div class="contact-note">
 I have a limited amount of life experiences, but if you are having questions and you think I can help, feel free to email me.
