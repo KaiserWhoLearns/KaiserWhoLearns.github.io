@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a PhD student at [JHU CLSP](https://www.clsp.jhu.edu/), advised by [Mark Dredze](https://www.cs.jhu.edu/~mdredze/).
+Hello! I am a PhD student at [JHU CLSP](https://www.clsp.jhu.edu/), advised by [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) and [Daniel Khashabi](https://danielkhashabi.com/).
 
 My interests are protean due to my restless curiosity. I am generally interested in understanding how language models function and exploring how we can change them.
 Terminologically, I am interested in studying <span class="highlight">interpretability (broadly)</span>, <span class="highlight">training dynamics</span>, <span class="highlight">evaluation</span>, and <span class="highlight">reasoning</span> of language models.
@@ -24,27 +24,37 @@ News
 ======
 
 <div class="news-item">
+  <span class="news-date">[May 2026]</span>
+  <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2605.13625">How to Interpret Agent Behavior</a> is now available on arXiv.</div>
+</div>
+
+<div class="news-item">
+  <span class="news-date">[April 2026]</span>
+  <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2604.08510">What do Language Models Learn and When? The Implicit Curriculum Hypothesis</a> is now available on arXiv.</div>
+</div>
+
+<div class="news-item">
   <span class="news-date">[March 2026]</span>
   <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2603.09095">Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs</a> is now available on arXiv.</div>
 </div>
 
-<div class="news-item">
-  <span class="news-date">[June 2025]</span>
-  <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2506.06485">Task Matters: Knowledge Requirements Shape LLM Responses to Context-Memory Conflict</a> is now available on arXiv.</div>
-</div>
-
-<div class="news-item">
-  <span class="news-date">[May 2025]</span>
-  <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2505.10571">On the Failure of Latent State Persistence in Large Language Models</a> is now available on arXiv.</div>
-</div>
-
-<div class="news-item">
-  <span class="news-date">[April 2025]</span>
-  <div class="news-content">New papers 📄: <a href="https://arxiv.org/abs/2408.06663">Amuro and Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models</a> is accepted into RepL4NLP2025; <a href="https://aclanthology.org/2025.naacl-long.600/">SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models</a> is accepted into NAACL2025.</div>
-</div>
-
 <details class="news-older">
   <summary><b>Older News</b></summary>
+
+  <div class="news-item">
+    <span class="news-date">[June 2025]</span>
+    <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2506.06485">Task Matters: Knowledge Requirements Shape LLM Responses to Context-Memory Conflict</a> is now available on arXiv.</div>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">[May 2025]</span>
+    <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2505.10571">On the Failure of Latent State Persistence in Large Language Models</a> is now available on arXiv.</div>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">[April 2025]</span>
+    <div class="news-content">New papers 📄: <a href="https://arxiv.org/abs/2408.06663">Amuro and Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models</a> is accepted into RepL4NLP2025; <a href="https://aclanthology.org/2025.naacl-long.600/">SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models</a> is accepted into NAACL2025.</div>
+  </div>
 
   <div class="news-item">
     <span class="news-date">[August 2024]</span>
