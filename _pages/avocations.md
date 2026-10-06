@@ -5,7 +5,7 @@ permalink: /avocations/
 author_profile: true
 redirect_from:
 ---
-In my free time, I like *making drinks (cocktail, tea, coffee)*, *calligraphy*, *painting*, and *crafting*.
+In my free time, I like *making drinks (cocktail, tea, coffee)*, *calligraphy*, *painting*, *pottery*, and *crafting*.
 
 <div class="avocation-grid">
   <a href="/avocations/art" class="avocation-card">
@@ -15,6 +15,10 @@ In my free time, I like *making drinks (cocktail, tea, coffee)*, *calligraphy*, 
   <a href="/avocations/craft" class="avocation-card">
     <span class="card-emoji">🛠️</span>
     <span class="card-label">Crafts</span>
+  </a>
+  <a href="/avocations/pottery" class="avocation-card">
+    <span class="card-emoji">🏺</span>
+    <span class="card-label">Pottery</span>
   </a>
   <a href="/avocations/photos" class="avocation-card">
     <span class="card-emoji">📷</span>
