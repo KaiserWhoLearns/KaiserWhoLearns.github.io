@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a PhD student at [JHU CLSP](https://www.clsp.jhu.edu/), advised by [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) and [Daniel Khashabi](https://danielkhashabi.com/).
+Hello! I am a PhD student at [JHU CLSP](https://www.clsp.jhu.edu/) and the [JHU Data Science and AI Institute (DSAI)](https://ai.jhu.edu/), advised by [Mark Dredze](https://www.cs.jhu.edu/~mdredze/) and [Daniel Khashabi](https://danielkhashabi.com/).
 
 My interests are protean due to my restless curiosity. I am generally interested in understanding how language models function and exploring how we can change them.
 Terminologically, I am interested in studying <span class="highlight">interpretability (broadly)</span>, <span class="highlight">training dynamics</span>, <span class="highlight">evaluation</span>, and <span class="highlight">reasoning</span> of language models.
 
-Before my PhD studies, I was a resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) with a minor in classical studies at University of Washington. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). I have also interned at the AWS AI Labs for two times, mentored by [Peng Qi](https://qipeng.me/), [Yuhao Zhang](https://yuhao.im/), [Jifan Chen](https://jifan-chen.github.io/), and [Danilo Ribeiro](https://dnr2.github.io/academic_website/).
-My work has been recognized with a [Best Paper Honorable Mention at CoNLL2023](https://aclanthology.org/2023.conll-1.19/), an [Outstanding Paper Award at MLRC2022](https://openreview.net/forum?id=MF9uv95psps), and some media coverage.
+Before my PhD studies, I was a resident at [FAIR Labs](https://ai.facebook.com/research/), working with [Adina Williams](https://ai.facebook.com/people/adina-williams) and [Dieuwke Hupkes](https://dieuwkehupkes.nl/). I obtained my Master's and Bachelor's degrees of computer science (B.S., M.S.) and mathematics (B.A.) with a minor in classical studies at University of Washington. My advisor was [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), and I was supervised by [Ana Marasović](https://www.anamarasovic.com/). I have also interned at the AWS AI Labs for two times, mentored by [Peng Qi](https://qipeng.me/), [Yuhao Zhang](https://yuhao.im/), [Jifan Chen](https://jifan-chen.github.io/), and [Danilo Ribeiro](https://dnr2.github.io/academic_website/). In summer 2026, I interned at [Together AI](https://www.together.ai/), working with [Fede Bianchi](https://federicobianchi.io/) and [Kaitlyn Zhou](https://katezhou.github.io/).
+My work has been recognized with an [Outstanding Paper Award at COLM2026](https://arxiv.org/abs/2604.08510), a [Best Paper Honorable Mention at CoNLL2023](https://aclanthology.org/2023.conll-1.19/), an [Outstanding Paper Award at MLRC2022](https://openreview.net/forum?id=MF9uv95psps), and some media coverage.
 Thanks a lot to the support of my advisors and my donors, I was able to conduct research and keep learning.
 
 <div class="contact-note">
@@ -24,22 +24,42 @@ News
 ======
 
 <div class="news-item">
-  <span class="news-date">[May 2026]</span>
-  <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2605.13625">How to Interpret Agent Behavior</a> is now available on arXiv.</div>
+  <span class="news-date">[October 2026]</span>
+  <div class="news-content">Our paper <a href="https://arxiv.org/abs/2604.08510">What do Language Models Learn and When? The Implicit Curriculum Hypothesis</a> received an 🏆 <b>Outstanding Paper Award</b> 🏆 at COLM2026.</div>
 </div>
 
 <div class="news-item">
-  <span class="news-date">[April 2026]</span>
-  <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2604.08510">What do Language Models Learn and When? The Implicit Curriculum Hypothesis</a> is now available on arXiv.</div>
+  <span class="news-date">[September 2026]</span>
+  <div class="news-content"><a href="https://arxiv.org/abs/2605.13625">How to Interpret Agent Behavior</a> and <a href="https://arxiv.org/abs/2603.09095">Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs</a> are accepted into NeurIPS2026. I will be attending NeurIPS in Atlanta, where I am also co-organizing the <a href="https://www.queerinai.com/neurips-2026">Queer in AI x {Dis}Ability in AI</a> events. We are also hosting the <a href="https://iab-agents.github.io/">Interpreting Agent Behavior (IAB) workshop</a> at NeurIPS in Sydney - come say hi!</div>
 </div>
 
 <div class="news-item">
-  <span class="news-date">[March 2026]</span>
-  <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2603.09095">Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs</a> is now available on arXiv.</div>
+  <span class="news-date">[September 2026]</span>
+  <div class="news-content">New papers 📄: <a href="https://arxiv.org/abs/2609.17846">PrimeScientist: Strategic Allocation of Research Effort in Autonomous Research</a> and <a href="https://arxiv.org/abs/2609.04173">Last Translation Benchmark</a> are now available on arXiv.</div>
+</div>
+
+<div class="news-item">
+  <span class="news-date">[Summer 2026]</span>
+  <div class="news-content">I spent the summer interning at <a href="https://www.together.ai/">Together AI</a>, working with <a href="https://federicobianchi.io/">Fede Bianchi</a> and <a href="https://katezhou.github.io/">Kaitlyn Zhou</a>.</div>
 </div>
 
 <details class="news-older">
   <summary><b>Older News</b></summary>
+
+  <div class="news-item">
+    <span class="news-date">[May 2026]</span>
+    <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2605.13625">How to Interpret Agent Behavior</a> is now available on arXiv.</div>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">[April 2026]</span>
+    <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2604.08510">What do Language Models Learn and When? The Implicit Curriculum Hypothesis</a> is now available on arXiv.</div>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">[March 2026]</span>
+    <div class="news-content">New paper 📄: <a href="https://arxiv.org/abs/2603.09095">Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs</a> is now available on arXiv.</div>
+  </div>
 
   <div class="news-item">
     <span class="news-date">[June 2025]</span>
