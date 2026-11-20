@@ -1,0 +1,142 @@
+---
+layout: null
+permalink: /contact/
+sitemap: false
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Kaiser Sun · Contact</title>
+  <link rel="icon" href="{{ '/images/profile.png' | relative_url }}">
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #eef4fb;
+      --card: #fcfdff;
+      --text: #2b3d5c;
+      --muted: #6a7c98;
+      --line: #d8e3f1;
+      --hover: #eff5fd;
+      --accent: #3d6db4;
+      --icon: #3d6db4;
+      /* Seigaiha tile: rows of concentric-ring scales, each later row painted over the one above. */
+      --seigaiha: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='40' viewBox='0 0 80 40'%3E%3Cdefs%3E%3Cg id='s'%3E%3Ccircle r='40' fill='%23dde8f6'/%3E%3Ccircle r='35' fill='%23eef4fb'/%3E%3Ccircle r='30' fill='%23dde8f6'/%3E%3Ccircle r='25' fill='%23eef4fb'/%3E%3Ccircle r='20' fill='%23dde8f6'/%3E%3Ccircle r='15' fill='%23eef4fb'/%3E%3Ccircle r='10' fill='%23dde8f6'/%3E%3Ccircle r='5' fill='%23eef4fb'/%3E%3C/g%3E%3C/defs%3E%3Cuse href='%23s' x='40' y='20'/%3E%3Cuse href='%23s' x='0' y='40'/%3E%3Cuse href='%23s' x='80' y='40'/%3E%3Cuse href='%23s' x='40' y='60'/%3E%3C/svg%3E");
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; }
+    body {
+      background-color: var(--bg);
+      background-image: var(--seigaiha);
+      background-size: 88px 44px;
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px 16px;
+    }
+    .card {
+      width: 100%;
+      max-width: 360px;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      padding: 36px 28px 28px;
+      text-align: center;
+      box-shadow: 0 12px 36px rgba(45, 80, 140, 0.12);
+    }
+    .avatar {
+      width: 104px;
+      height: 104px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 1px solid var(--line);
+    }
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 650;
+      margin: 16px 0 4px;
+      letter-spacing: -0.01em;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.45;
+      margin: 0;
+    }
+    .links {
+      list-style: none;
+      padding: 0;
+      margin: 26px 0 0;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .links a {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 12px 16px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      color: var(--text);
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .links a:hover, .links a:focus-visible {
+      background: var(--hover);
+      border-color: var(--accent);
+      outline: none;
+    }
+    .links svg {
+      width: 20px;
+      height: 20px;
+      flex-shrink: 0;
+      fill: var(--icon);
+    }
+    .links .label { text-align: left; }
+    .site {
+      display: inline-block;
+      margin-top: 22px;
+      font-size: 0.85rem;
+      color: var(--muted);
+      text-decoration: none;
+    }
+    .site:hover { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <img class="avatar" src="{{ '/images/profile.png' | relative_url }}" alt="Kaiser Sun">
+    <h1>Kaiser Sun</h1>
+    <p class="sub">PhD student, Johns Hopkins University<br>CLSP &amp; DSAI · they/them</p>
+
+    <ul class="links">
+      <li>
+        <a href="mailto:hsun74@cs.jhu.edu">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 2v.51l-8 5.33-8-5.33V6h16zM4 18V8.9l7.45 4.97a1 1 0 0 0 1.1 0L20 8.9V18H4z"/></svg>
+          <span class="label">hsun74 at cs.jhu.edu</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://x.com/KaiserWhoLearns" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          <span class="label">@KaiserWhoLearns</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/kaiser-sun-70858316b" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg>
+          <span class="label">LinkedIn</span>
+        </a>
+      </li>
+    </ul>
+
+    <a class="site" href="{{ '/' | relative_url }}">kaiserwholearns.github.io</a>
+  </main>
+</body>
+</html>
